@@ -6,7 +6,7 @@ npm install
 
 npm start
 
-#edit the images from Slides.js, for video, change it in Intro.js
+## edit the images from Slides.js, for video, change it in Intro.js
 update the static_assets
 
 show it browser
