@@ -14,3 +14,6 @@ npm run bundle
 
 surge
 custom sub-domain
+
+To experience, go to:
+http://teachwithslidesvr.surge.sh/
